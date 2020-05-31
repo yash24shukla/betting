@@ -1,0 +1,21 @@
+.alert-success {
+  color: #fff;
+  background: #2c3e50;
+  border-color: #c3e6cb;
+}
+
+span {
+}
+
+.passwordFieldCommon {
+  display: block;
+}
+
+.accStatement-date-input {
+  margin-right: 7%;
+}
+
+.col.accStatement-rowHeader {
+  border: 1px solid black;
+}
+
